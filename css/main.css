@@ -1,3 +1,9 @@
 body {
 	background-color: lightgreen;
 }
+
+@media (min-width: 675px) {
+	body {
+		background-color: lightblue;
+	}
+}

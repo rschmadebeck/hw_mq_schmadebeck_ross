@@ -7,3 +7,9 @@ body {
 		background-color: darkgreen;
 	}
 }
+
+@media (max-width: 550px) {
+	body {
+		background-color: darkblue;
+	}
+}

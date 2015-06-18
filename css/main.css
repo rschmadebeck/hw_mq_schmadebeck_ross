@@ -13,3 +13,9 @@ body {
 		background-color: darkblue;
 	}
 }
+
+@media (max-width: 400px) {
+	body {
+		background-color: darkorange;
+	}
+}

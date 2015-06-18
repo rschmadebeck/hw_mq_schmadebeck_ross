@@ -7,3 +7,9 @@ body {
 		background-color: lightblue;
 	}
 }
+
+@media (min-width: 999px) {
+	body {
+		background-color: lightpink;
+	}
+}

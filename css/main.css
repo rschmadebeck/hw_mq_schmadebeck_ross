@@ -1,3 +1,9 @@
 body {
-	background-color: dark red;
+	background-color: darkred;
+}
+
+@media (max-width: 1080px) {
+	body {
+		background-color: darkgreen;
+	}
 }
